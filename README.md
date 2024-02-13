@@ -15,13 +15,10 @@
 
 	- [Kimai] https://github.com/kimai/kimai
 An time tracking system  
-
 	- [Tactical RMM] https://github.com/amidaware/tacticalrmm
 An RMM server, remote management and monitoring
-
 	- [Uptime Kuma] https://github.com/louislam/uptime-kuma
 Monitor your web servers or any server for that matter
-
 	- [ProxCP] https://github.com/marcus-alicia/proxcp
 Control panel for Proxmox
 		

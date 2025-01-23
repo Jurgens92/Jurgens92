@@ -42,5 +42,5 @@ A web-based IT checklist management system designed for IT companies
 -----
 
 <p align="center">
-  <img src=https://giphy.com/embed/lbcLMX9B6sTsGjUmS3
+  <img src
   </p>

@@ -40,7 +40,3 @@ A web-based IT checklist management system designed for IT companies
 <br><br>
 
 -----
-
-<p align="center">
-  <img src
-  </p>

@@ -37,7 +37,15 @@ https://github.com/KelvinTegelaar/CIPP
 
 [Checklist System]
 https://github.com/Jurgens92/ITChecklistSystem
-A web-based IT checklist management system designed for IT companies
+A web-based Python Checklist management system designed for IT companies
+
+[Remote Desktop Security app]
+https://github.com/Jurgens92/RDPSecure
+C# application to monitor and ban brute force attacks on RDP
+
+[Incident Report]
+https://github.com/Jurgens92/IncidentReport
+Python/HTML App to report and email incidents
 		
 
 <br><br>

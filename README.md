@@ -1,57 +1,94 @@
-<h1 align="center">Hallo, World!</h1>
+<div align="center">
 
+# 👋 Hallo, World!
 
-### Hallo, my name is Jurgens
-- 🤔 I Use open source projects for internal or client Use
-- 🖥️ I work with Private and Public Cloud
+### I'm Jurgens - Cloud Engineer & Open Source Enthusiast
 
+[![GitHub followers](https://img.shields.io/github/followers/Jurgens92?style=social)](https://github.com/Jurgens92)
+[![GitHub stars](https://img.shields.io/github/stars/Jurgens92?style=social)](https://github.com/Jurgens92)
 
-<br><br>
+</div>
 
------
+---
 
-### 🖥️ My successful projects include the following::
+## 🚀 About Me
 
-[Kimai] 
-https://github.com/kimai/kimai
-An time tracking system
-  
-[Tactical RMM]
-https://github.com/amidaware/tacticalrmm
-An RMM server, remote management and monitoring
- 
-[Uptime Kuma]
-https://github.com/louislam/uptime-kuma
-Monitor your web servers or any server for that matter
+```yaml
+name: Jurgens
+role: Cloud Engineer & DevOps Specialist
+passion: Open Source Solutions
+expertise:
+  - Private Cloud Infrastructure
+  - Public Cloud Platforms
+  - System Integration & Automation
+  - Enterprise IT Management
+```
 
-[ProxCP]
-https://github.com/marcus-alicia/proxcp
-Control panel for Proxmox
+💡 I leverage open source projects to deliver powerful solutions for internal systems and client deployments
+☁️ Specialized in designing and managing both Private and Public Cloud infrastructures
+🔧 Passionate about automation, monitoring, and building robust IT systems
 
-[CIPP]
-https://github.com/KelvinTegelaar/CIPP
- Microsoft 365 tenant management tool
- 
-[MailPiler]
- https://github.com/jsuto/piler
- Email Archiving tool
+---
 
+## 🏆 Successfully Deployed Enterprise Solutions
 
-### 🖥️ My own projects include the following::
+<table>
+<tr>
+<td width="50%">
 
-[Checklist System]
-https://github.com/Jurgens92/ITChecklistSystem
-A web-based Python Checklist management system designed for IT companies
+### ⏱️ [Kimai](https://github.com/kimai/kimai)
+Professional time tracking system for teams and businesses
 
-[Remote Desktop Security app]
-https://github.com/Jurgens92/RDPSecure
-C# application to monitor and ban brute force attacks on RDP
+### 🖥️ [Tactical RMM](https://github.com/amidaware/tacticalrmm)
+Remote monitoring and management platform for IT infrastructure
 
-[Incident Report]
-https://github.com/Jurgens92/IncidentReport
-Python/HTML App to report and email incidents
-		
+### 📊 [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+Self-hosted monitoring solution for servers and web services
 
-<br><br>
+</td>
+<td width="50%">
 
------
+### 🔧 [ProxCP](https://github.com/marcus-alicia/proxcp)
+Web-based control panel for Proxmox virtualization
+
+### 🏢 [CIPP](https://github.com/KelvinTegelaar/CIPP)
+Comprehensive Microsoft 365 tenant management platform
+
+### 📧 [MailPiler](https://github.com/jsuto/piler)
+Email archiving and compliance solution
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 My Open Source Projects
+
+### 🗂️ [TechVault](https://github.com/Jurgens92/TechVault)
+> **Latest Project** 🎉
+> My newest open source project - currently in active development!
+
+### ✅ [IT Checklist System](https://github.com/Jurgens92/ITChecklistSystem)
+> Web-based Python checklist management system designed specifically for IT companies
+> **Tech Stack:** Python, Web Framework, Database Management
+
+### 🔐 [RDPSecure](https://github.com/Jurgens92/RDPSecure)
+> C# application to monitor and automatically ban brute force attacks on RDP
+> **Tech Stack:** C#, Windows Services, Security Monitoring
+
+### 📋 [Incident Report](https://github.com/Jurgens92/IncidentReport)
+> Python/HTML application for incident reporting with automated email notifications
+> **Tech Stack:** Python, HTML, Email Integration
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+**Building robust IT infrastructure, one commit at a time** 🚀
+
+![](https://komarev.com/ghpvc/?username=Jurgens92&color=blue&style=flat-square)
+
+</div>
